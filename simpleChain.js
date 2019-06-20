@@ -169,7 +169,9 @@ class Blockchain{
     }
 } //End of Class Blockchain
 
-
+/* ===== TESTING ========================================
+|  To create test blocks on your Private Blockchain     |
+|  =====================================================*/
 
 let blockchain = new Blockchain();
 
